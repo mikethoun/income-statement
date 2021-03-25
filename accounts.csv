@@ -1,0 +1,16 @@
+Account Number,Account Name,Account Type
+1,Subscription - Level 1,Revenue
+2,Subscription - Level 2,Revenue
+3,Professional Service Fees,Revenue
+4,Subscription Costs OLD,Revenue
+5,Setup Fees,Revenue
+6,Hosting Costs,Cost of Revenue
+7,Service Costs,Cost of Revenue
+8,Partner Costs,Cost of Revenue
+9,Salaries,Operating Expenses
+10,Bonuses,Operating Expenses
+11,Software Costs,Operating Expenses
+12,Rent,Operating Expenses
+13,Opex1,Operating Expenses
+14,Opex2,Operating Expenses
+15,Opex3,Operating Expenses
